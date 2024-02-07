@@ -1,0 +1,30 @@
+.tc{
+    text-align: center;
+}
+.tc a {
+    color: #000;
+}
+.wj-events .event-title h2 a{
+    color: #000;
+}
+.wj-events button{
+    background-color: aqua !important;
+}
+.wje-container{
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.style-1 .wje-container{
+    background-color: #d6d60424;
+
+}
+.style-2 .wje-container{
+    background-color: #54542924;
+}
+
+.filter-show{
+    display: block;
+}
+.filter-hide{
+    visibility: hidden;
+}
